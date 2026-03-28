@@ -1,0 +1,19 @@
+# Niri compositor and utilities
+description: Niri scrollable-tiling Wayland compositor
+
+packages:
+  - niri
+  - xdg-desktop-portal-gnome
+  - wl-clipboard
+  - wl-clip-persist
+  - cliphist
+  - grim
+  - slurp
+  - satty
+  - swaybg
+  - brightnessctl
+  - fuzzel
+  - mako
+  - waybar
+  - sway-audio-idle-inhibit-git
+  - swayidle

@@ -1,0 +1,7 @@
+# DankMaterialShell and display manager
+description: DankMaterialShell with ly
+
+packages:
+  - dms-shell-git
+  - quickshell
+  - ly

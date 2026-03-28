@@ -1,0 +1,20 @@
+# Catppuccin Mocha theme packages
+description: Catppuccin Mocha theme for GTK, Qt, icons, and cursors
+
+packages:
+  # Qt Wayland support
+  - qt5-wayland
+  - qt6-wayland
+  - qt5ct
+  - qt6ct
+
+  # GTK
+  - gtk3
+  - gtk4
+
+  # Themes and icons
+  - catppuccin-gtk-theme-mocha
+  - tela-icon-theme-purple-git
+  - bibata-cursor-theme-bin
+  - kvantum-theme-catppuccin-git
+  - matugen

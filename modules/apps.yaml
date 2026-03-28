@@ -1,0 +1,8 @@
+# Required applications
+description: Essential applications (terminal, file manager, shell)
+
+packages:
+  - kitty
+  - nemo
+  - fish
+  - fastfetch

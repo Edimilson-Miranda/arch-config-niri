@@ -1,0 +1,15 @@
+# Base packages for all DonArch systems
+description: Core dependencies and build tools
+
+packages:
+  # Build essentials
+  - git
+  - cmake
+  - meson
+  - cpio
+  - gcc
+  - base-devel
+
+  # Utilities
+  - jq
+  - dialog
